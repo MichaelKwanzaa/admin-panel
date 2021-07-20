@@ -1,0 +1,8 @@
+.product{
+    flex: 4;
+    width: 100%;
+}
+
+.productWrapper{
+    padding: 20px;
+}
